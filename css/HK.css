@@ -125,7 +125,7 @@
         width: 100%;
         overflow-x: auto;
         white-space: nowrap;
-}
+    }
 
     .gallery-container {
         display: inline-block;
@@ -137,8 +137,6 @@
         object-fit: cover;
         margin-right: 10px; 
     }
-
-
 
     /* =======
     hero section 1
