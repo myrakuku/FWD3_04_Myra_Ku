@@ -131,7 +131,7 @@
         height: 100%;
         margin: 10px auto;
         padding: 20px;
-        background: url(/images/zCpattern.jpg);
+        background: url(../images/zCpattern.jpg);
         filter: opacity(90%);
         background-size: contain;    
         background-repeat: repeat;
@@ -142,16 +142,16 @@
         justify-content: center;
     
         .section-art-1 {
-            background: url(/images/zF3.jpg);
+            background: url(../images/zF3.jpg);
         }
         .section-art-2 {
-            background: url(/images/zF4.jpg);
+            background: url(../images/zF4.jpg);
         }
         .section-art-3 {
-            background: url(/images/zF5.jpg);
+            background: url(../images/zF5.jpg);
         }
         .section-art-4 {
-            background: url(/images/zF6.jpg);
+            background: url(../images/zF6.jpg);
         }
         .section-art-1, .section-art-2, .section-art-3, .section-art-4  {
             width: 210px;
