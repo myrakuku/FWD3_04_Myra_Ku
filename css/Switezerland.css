@@ -136,7 +136,7 @@
         .gallery-left {
             grid-column: 1 / 3;
             grid-row: 1 / 3;
-            background: url(../zSw2.jpg);
+            background: url(../images/zSw2.jpg);
             background-size: cover;    
             background-position: right;
         }
